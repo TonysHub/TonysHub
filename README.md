@@ -12,6 +12,15 @@
 - Checkout [LinkedIn](https://www.linkedin.com/in/tonyleedongsoo/) for careers.
 
 - [Peronal blog posts](https://velog.io/@tonys_hub) about programming.
+## 🚀 Goals
+
+- Sparkle positivity among people I encounter throughout my life.
+
+## 🐍 Commit Snake
+Because I love Python.
+
+![Snake animation](https://github.com/TonysHub/TonysHub/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 🧰 Tools
 |   | Tools  |  
@@ -21,14 +30,9 @@
 | Data | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">|
 | Code |   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
-## 🚀 Goals
 
-- Sparkle positivity among people I encounter throughout my life.
 
-## 🐍 Commit Snake
-Because I love Python.
 
-![Snake animation](https://github.com/TonysHub/TonysHub/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ## ⚡ Fun Facts
