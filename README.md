@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=76FFF0&height=300&section=header&text=TonysHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=76FFF0&height=200&section=header&text=TonysHub&fontSize=70)
 
 ## 🌴 Life Summary
  - Born in Seoul, lived in 🇨🇦 Canada for about 10 years.
