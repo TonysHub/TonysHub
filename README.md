@@ -29,7 +29,7 @@ Because I love Python.
 | Back-end | <img src="https://img.shields.io/badge/Django-173B0B?style=for-the-badge&logo=django&logoColor=white"> |
 | Data | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">|
 | Code |   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
-
+| Cloud |![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=12293b&logo=Amazon+AWS&logoColor=FF9900&label=) |
 
 
 
