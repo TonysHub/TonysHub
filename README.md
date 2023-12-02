@@ -10,8 +10,7 @@
 - Served 18 months in 🪖 ROK Army Special Forces after graduation.
 
 - Checkout [LinkedIn](https://www.linkedin.com/in/tonyleedongsoo/) for careers.
-
-- [Peronal blog posts](https://velog.io/@tonys_hub) about programming.
+- 
 ## 🚀 Goals
 
 - Sparkle positivity among people I encounter throughout my life.
