@@ -5,13 +5,12 @@
 
  - Graduated University of Waterloo Mechanical Engineering Class of 2021.
 
- - Self-taught data engineer with a passion on building actual products.
+- Self-taught software engineer building actual products.
 
-- Served 18 months in 🪖 ROK Army Special Forces after graduation.
+- Served 18 months in 🪖 ROK Army Special Forces after undergrad.
 
 - Checkout [LinkedIn](https://www.linkedin.com/in/tonyleedongsoo/) for careers.
 
 ## 🚀 Goals
 
 - Sparkle positivity among people I encounter throughout my life.
-
